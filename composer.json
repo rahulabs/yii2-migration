@@ -11,12 +11,12 @@
     }
   ],
   "support": {
-    "source": "https://github.com/bizley/yii2-migration"
+    "source": "https://github.com/rahulabs/yii2-migration"
   },
   "funding": [
     {
       "type": "github",
-      "url": "https://github.com/sponsors/bizley"
+      "url": "https://github.com/sponsors/rahulabs"
     }
   ],
   "require": {
